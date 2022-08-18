@@ -13,6 +13,6 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 
 **Frage:** Was kann ich tun wenn ich auf einen Fakeshop reinfalle.
 
-**Antwort:**
-1. die Bank so schnell wie möglich kontaktieren und die Zahlung rückgängig machen. 
-2. 
+**Antwort:**   
+1. Die Bank so schnell wie möglich kontaktieren und die Zahlung rückgängig machen.    
+2. Man sollte alle belege für die online Bestellung gesammelt und gesichert haben. Dazu

@@ -7,6 +7,7 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 **Frage:** Wie erkennt man Fakeshops?  
 **Antwort:** 
 1. Man kann auf die URL gucken. Bei URLs die nach bekannten marken aus sehen, kann es sein das z.B.: apple.com nur mit einem  "p" geschrieben ist. (aple.com) Diese webseite versucht sich  als die bekannte marke auszugeben, ist es aber nicht.  
-2. Viele Fake Webseiten haben eine sehr schlechte Rechtschreibung oder sind offensichtlich mit Google-Übersetzer schlecht übersetzt.
-3. in Fakeshops 
+2. Viele Fake Webseiten haben eine sehr schlechte Rechtschreibung oder sind offensichtlich mit Google-Übersetzer schlecht übersetzt. 
+3. Fakeshops haben oft offensichtlich niedrige Preise, obwohl man weiß das es eigentlich mehr kosten müsste. Z.B.: bei AirPods die nur 10€ kosten wo man direkt erkennt, dass diese fake sind. 
+4. 
 **Frage:** 

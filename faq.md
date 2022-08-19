@@ -1,4 +1,4 @@
-## Fake Shop FAQ - Die antworten auf deine fragen!  
+## [🠔](https://www.engineer66.tk/) Fake Shop FAQ - Die antworten auf deine fragen!  
 
 Hast du schon mal Erfahrungen mit einem Fakeshop gemacht?  
 Ja? Dann bist du hier genau richtig.  
@@ -12,7 +12,6 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 3. Fakeshops haben oft offensichtlich niedrige Preise, obwohl man weiß das es eigentlich mehr kosten müsste. Z.B.: bei AirPods die nur 10€ kosten wo man direkt erkennt, dass diese fake sind. 
 
 **Frage:** Was kann ich tun wenn ich auf einen Fakeshop reinfalle.
-
 **Antwort:**   
 1. Die Bank so schnell wie möglich kontaktieren und die Zahlung rückgängig machen.    
 2. Man sollte alle belege für die online Bestellung gesammelt und gesichert haben. Dazu

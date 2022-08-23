@@ -1,5 +1,5 @@
 ## Fake Shop FAQ - Die antworten auf deine fragen! 
-# [↞](https://engineer66.tk)
+# [↞](https://www.engineer66.tk)
 
 Hast du schon mal Erfahrungen mit einem Fakeshop gemacht?  
 Ja? Dann bist du hier genau richtig.  
@@ -26,6 +26,8 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 2. Man sollte alle belege für die online Bestellung gesammelt und gesichert haben. Dazu gehören Kaufvertrag, Bestellbestätigung, Emails und ein Screenshot des Angebots.     
 3. Man sollte so schnell wie möglich den vorfall zur Anzeige bringen. Das können sie entweder bei dem Örtlchen Polizei Präsidium oder Online tun.  
 
-**Frage:** Wie kann man sicherer online-shoppen?      
+**Frage:** Wie kann man sicherer Online-shoppen?      
 **Antwort:**   
-1. 
+1. Man sollte nicht auf Vorkasse zahlen, denn so kann es passieren, dass die Ware nicht ankommt. Man sollte lieber erst den Kaufvertrag abschließen die Ware erhalten und dann zahlen.  
+2. Kontakdaten von auffälligen Fake-Shops testen, indem man die Adresse z.B. auf Google Maps angibt um zu schauen, ob dies z.B. ein Gewerbegebiet ist oder ob die Adresse überhaupt existiert.  
+3. Bewertungen von Drittanbietern lesen, da die eigen angegebenen Bewertungen oft gefälscht sind.

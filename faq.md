@@ -31,3 +31,7 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 1. Man sollte nicht auf Vorkasse zahlen, denn so kann es passieren, dass die Ware nicht ankommt. Man sollte lieber erst den Kaufvertrag abschließen die Ware erhalten und dann zahlen.  
 2. Kontakdaten von auffälligen Fake-Shops testen, indem man die Adresse z.B. auf Google Maps angibt um zu schauen, ob dies z.B. ein Gewerbegebiet ist oder ob die Adresse überhaupt existiert.  
 3. Bewertungen von Drittanbietern lesen, da die eigen angegebenen Bewertungen oft gefälscht sind.
+
+
+*Quellen:
+Google, Verbraucherschutz-zentrale*

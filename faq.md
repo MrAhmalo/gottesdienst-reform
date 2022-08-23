@@ -33,5 +33,5 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 3. Bewertungen von Drittanbietern lesen, da die eigen angegebenen Bewertungen oft gefälscht sind.
 
 
-*Quellen:
-Google, Verbraucherschutz-zentrale*
+*Quellen:   
+Google, Verbraucherschutz-zentrale*   

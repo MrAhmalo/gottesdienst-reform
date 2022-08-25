@@ -8,3 +8,5 @@ Webseite: Julian
 Text: Benjamin, Albin  
 Internet recherche: Albin   
 Kleinere Textpassagen: Julian   
+
+[Impressum](https://mrahmalo.github.io/fakeshop-faq/impressum)

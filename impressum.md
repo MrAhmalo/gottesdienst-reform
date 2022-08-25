@@ -1,6 +1,6 @@
-Arbeit:
-Röntgenstraße 1
-41515 Grevenbroich
+Arbeit:   
+Röntgenstraße 1  
+41515 Grevenbroich  
 
-Telefon:
-+49 0000000000
+Telefon:  
++49 0000000000  

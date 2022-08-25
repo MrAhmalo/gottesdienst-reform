@@ -17,7 +17,7 @@ Wir beantworten hier fragen, die du zu diesem Thema hast.
 
 **Frage:** Was kann mir passieren, wenn ich bei einem Fake-Shop bestelle?    
 **Antwort:**     
-1. Es kann sein, dass sie die Bestellte Ware nicht erhalten oder es eine Fake-Ware ist.  
+1. Es kann sein, dass sie die Bestellte Ware nicht zugestellt wird oder es eine Fake-Ware ist.  
 2. Es kommt auch vor, dass statt z.B. Blauen Schuhen dann Gelbe Schuhe ankommen.  
 3. Wenn die bestellte Ware nicht angekommt, ist es möglich, dass man das Geld nicht mehr zurück bekommt. 
 4. Betrüger behalten die Angegebenen Daten oft, um diese zu verkaufen oder für weitere Betrugsmaschen zu verwenden. 

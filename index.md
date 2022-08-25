@@ -9,4 +9,4 @@ Text: Benjamin, Albin
 Internet recherche: Albin   
 Kleinere Textpassagen: Julian   
 
-[Impressum](https://mrahmalo.github.io/fakeshop-faq/impressum)
+[Impressum](https://mrahmalo.github.io/fakeshop-faq/impressum) | [Credits](https://mrahmalo.gihub.io/fakeshop.faq/credits)

@@ -2,7 +2,7 @@ index.md -
 https://mrahmalo.github.io/gottesdienst-reform/start   
 
 übersicht.md - 
-https://mrahmalo.github.io/gottesdienst-reform/start/übersicht   
+https://mrahmalo.github.io/gottesdienst-reform/start/uebersicht   
 
 ablauf.md -
 https://mrahmalo.github.io/gottesdienst-reform/start/ablauf      

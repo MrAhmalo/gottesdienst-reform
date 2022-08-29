@@ -1,8 +1,14 @@
 index.md - 
-https://mrahmalo.github.io/fakeshop-faq/ 
-faq.md - 
-https://mrahmalo.github.io/fakeshop-faq/faq 
+https://mrahmalo.github.io/gottesdienst-reform/start   
+
+übersicht.md - 
+https://mrahmalo.github.io/gottesdienst-reform/start/übersicht   
+
+ablauf.md -
+https://mrahmalo.github.io/gottesdienst-reform/start/ablauf      
+
 impressum.md -
-https://mrahmalo.github.io/fakeshop-faq/impressum
+https://mrahmalo.github.io/gottesdienst-reform/start/impressum     
+
 credits.md -
-https://mrahmalo.github.io/fakeshop-faq/credits
+https://mrahmalo.github.io/gottesdienst-reform/start/credits    

@@ -1,10 +1,10 @@
 index.md -
-https://mrahmalo.github.io/gottesdienst-reform/start
+https://mrahmalo.github.io/gottesdienst-reform/
 übersicht.md -
-https://mrahmalo.github.io/gottesdienst-reform/start/uebersicht
+https://mrahmalo.github.io/gottesdienst-reform/uebersicht
 ablauf.md -
-https://mrahmalo.github.io/gottesdienst-reform/start/ablauf
+https://mrahmalo.github.io/gottesdienst-reform/ablauf
 impressum.md -
-https://mrahmalo.github.io/gottesdienst-reform/start/impressum
+https://mrahmalo.github.io/gottesdienst-reform/impressum
 credits.md -
-https://mrahmalo.github.io/gottesdienst-reform/start/credits
+https://mrahmalo.github.io/gottesdienst-reform/credits

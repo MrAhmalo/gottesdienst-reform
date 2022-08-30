@@ -4,13 +4,17 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 **Ablauf/Übersicht**
-- Einzug und Begrüßung (Gesang (Kirchenchor) & Orgelspiel)
+- Einzug und Begrüßung (mit Kirchenchor)
+- Neben der Orgel wird nun auch mit anderen Instrument eine einführung gegeben. Dies heitert die Menschen 
+  auf und macht auch diesen Teil spannender
 - Schuldbekenntnis und Kyrie
 - Gloria & Gebet
 - Genesung
 - Evangelium
+- Gabenbereitung
+- Eucheristie
 - Glaubensbekenntnis
+- **Nun kann man den Gottesdienst optional verlassen werden**
 - Fürbitten
-- Gabenbereitung -> Eucheristie
 - Hochgebet
 - Wenn man will Gebetskerzen

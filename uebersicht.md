@@ -1,5 +1,5 @@
 ## Hier erfahren sie den neuen Ablauf des reformierten Gottesdienst, sowie eine Übersicht. 
-# [↞](https://mrahmalo.github.io/gottesdienst-reform)
+# [↞](https://gottesdienst-reformierung.tk)
 
 -------------------------------------------------------------------------------------------------------------------------------
 

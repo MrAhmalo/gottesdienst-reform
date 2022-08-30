@@ -1,7 +1,4 @@
-# [↞](www.gottesdienst-reformierung.tk)   
-Arbeit:   
-Röntgenstraße 1  
-41515 Grevenbroich  
+# [↞](https://www.gottesdienst-reformierung.tk)   
 
-Telefon:  
-+49 0000000000  
+Diese Webseite ist ein Schulprojekt und richtet sich nicht an die öffentlichkeit.
+Somit ist kein Impressum nötig.

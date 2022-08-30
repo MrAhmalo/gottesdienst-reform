@@ -1,5 +1,5 @@
 ## Genauer ablauf/reformierung
-# [↞](https://gottesdienst-reformierung.tk)
+# [↞](https://www.gottesdienst-reformierung.tk)
 
 ## **Hier finden sie alle änderungen zum Gottesdienst, sowie kleinere verbesserungen:**
 

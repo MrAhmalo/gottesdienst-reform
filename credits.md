@@ -1,4 +1,4 @@
-# [↞](https://gottesdienst-reformierung.tk)     
+# [↞](https://www.gottesdienst-reformierung.tk)     
 Credits:     
 Webseite: Julian   
 Text: Greta, Hannah, Leon

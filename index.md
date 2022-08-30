@@ -6,5 +6,8 @@
 |[Änderungen des Gottesdienst](https://mrahmalo.github.io/gottesdienst-reform/aenderungen)|   | 
  
  
-[Impressum](https://mrahmalo.github.io/gottesdienst-reform/impressum)      
-[Credits](https://mrahmalo.github.io/gottesdienst-reform/credits)     
+
+
+
+*[Impressum](https://mrahmalo.github.io/gottesdienst-reform/impressum)*   
+*[Credits](https://mrahmalo.github.io/gottesdienst-reform/credits)*    

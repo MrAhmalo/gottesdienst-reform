@@ -1,5 +1,5 @@
 ## Hier erfahren sie den neuen Ablauf des reformierten Gottesdienst, sowie eine Übersicht. 
-# [↞](https://gottesdienst-reformierung.tk)
+# [↞](https://www.gottesdienst-reformierung.tk)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
